@@ -1,0 +1,14 @@
+COMANDOS BASICOS DE LA TERMINAL DE GIT BASH
+
+- mkdir: Crea una carpeta nueva. Se agrega mkdir y el nombre de la carpeta entre comillas ("").
+
+- cd: Para viajar a traves de las carpetas.
+  - Si solo pones 'cd' vas para atras.
+  = Si pones 'cd' y el nombre de la carpeta a la que te diriges, entras en esa carpeta.
+
+- pwd: Para ver la ruta en la que estas.
+
+- ls: Para ver una lista de todas las carpetas que estan dentro de donde estas.
+
+- code . : Sirve para abrir el VS Code de la carpeta en la que estoy.
+

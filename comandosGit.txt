@@ -43,3 +43,7 @@
   - git branch name: Sirve para crear una rama nueva.
 
 - git merge: Sirve para combinar los datos de ramas para mantener el control.
+
+- git stash: Para dejar una rama en pausa con datos guardados sin hacer commit y que me deje cambiar de rama sin ese commit.
+  - git stash list: Para ver la lista de los stash guardados.
+  - git stash pop: Para que cuando vuelva a la rama recuperar los datos del stash.

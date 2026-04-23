@@ -30,3 +30,5 @@
 
 - git switch rama/commit: Para viajar entre ramas o entre commits. Si viajo a un commit antiguo (con el codigo) no elimino los antiguos si no que cambio el puntero de la cabeza de la rama en la que estoy para inspeccionar codigo de los commits anteriores.
   - git switch master: Vuelvo a la rama master y a donde esta el ultimo commit hecho.
+
+- git config --global alias.name "long name": Para crear un alias a un comando que sea mas largo y guardarlo.

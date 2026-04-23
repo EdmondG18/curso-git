@@ -47,3 +47,4 @@
 - git stash: Para dejar una rama en pausa con datos guardados sin hacer commit y que me deje cambiar de rama sin ese commit.
   - git stash list: Para ver la lista de los stash guardados.
   - git stash pop: Para que cuando vuelva a la rama recuperar los datos del stash.
+  - git stash drop: Para eliminar todo lo que haya en el stash antes de recuperarlo, porque no lo queremos al final.

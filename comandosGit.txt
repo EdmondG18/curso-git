@@ -32,3 +32,5 @@
   - git switch master: Vuelvo a la rama master y a donde esta el ultimo commit hecho.
 
 - git config --global alias.name "long name": Para crear un alias a un comando que sea mas largo y guardarlo.
+
+- git diff: Para ver los cambios hechos respecto al ultimo commit.

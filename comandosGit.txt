@@ -6,11 +6,11 @@
   - Si agregas user.name "name", se agrega a la configuracion el nombre del usuario.
   - Si agregas user.email "email", se agrega a la configuracion el email del usuario.
 
--git init: Para inicializar un repositorio en la carpeta en la que estas.
+- git init: Para inicializar un repositorio en la carpeta en la que estas.
 
--git status: Para ver el estado del repositorio. 
+- git status: Para ver el estado del repositorio. 
 
--git add: Para trackear un archivo que tiene modificaciones hechas.
+- git add: Para trackear un archivo que tiene modificaciones hechas.
   - git add . : Se trackean todos los archivos que tienen modificaciones.
   - git add <file> : Se trackea el archivo que se menciona.
 

@@ -38,3 +38,8 @@
 - git reflog: Para ver el historial de todo lo que he hecho en git.
 
 - git tag: Para etiquetar el Commit en donde me encuentro. Como agregarle un nombre al nodo.
+
+- git branch: Sirve para ver todas las ramas que tengo.
+  - git branch name: Sirve para crear una rama nueva.
+
+- git merge: Sirve para combinar los datos de ramas para mantener el control.

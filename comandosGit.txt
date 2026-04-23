@@ -42,6 +42,7 @@
 
 - git branch: Sirve para ver todas las ramas que tengo.
   - git branch name: Sirve para crear una rama nueva.
+  - git branch -d name: Sirve para eliminar una rama.
 
 - git merge: Sirve para combinar los datos de ramas para mantener el control.
 

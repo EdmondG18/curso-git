@@ -36,3 +36,5 @@
 - git diff: Para ver los cambios hechos respecto al ultimo commit.
 
 - git reflog: Para ver el historial de todo lo que he hecho en git.
+
+- git tag: Para etiquetar el Commit en donde me encuentro. Como agregarle un nombre al nodo.

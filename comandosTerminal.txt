@@ -12,3 +12,5 @@ COMANDOS BASICOS DE LA TERMINAL DE GIT BASH
 
 - code . : Sirve para abrir el VS Code de la carpeta en la que estoy.
 
+- touch name: Sirve para crear un archivo nuevo en la carpeta en la que estoy.
+

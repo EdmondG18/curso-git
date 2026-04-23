@@ -19,3 +19,5 @@
 - git commit -m "Message": Se hace commit y se pone el mensaje de lo que se hizo en esos cambios. 
 
 - git log: Muestra todos los commits hechos, especificando el nombre y email del usuario que los hizo.
+
+- git checkout: Para descartar todos los cambios hechos antes de hacer add o commit.

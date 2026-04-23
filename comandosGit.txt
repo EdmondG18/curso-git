@@ -24,7 +24,7 @@
 
 - git checkout: Para descartar todos los cambios hechos antes de hacer add (actualmente es mejor: git restore archivo). Tambien para moverse entre ramas (acualmente es mejor: git switch rama). Solo puedo ver o restaurar archivos. No puedo eliminar commits. POCO PRACTICO EN LA ACTUALIDAD
 
-- git reset: Para descartar todos los cambios hechos.
+- git reset: Para descartar todos los cambios hechos con git add.
   - git reset --hard [nro commit]: Dependiendo el numero de commit se regresa a ese commit y elimina todos los anteriores del registro.
   - git reset --soft [nro commit]: Vuelve al numero de commit especificado pero deja los cambios hechos para hacer commit de nuevo.
 

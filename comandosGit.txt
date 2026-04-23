@@ -19,5 +19,11 @@
 - git commit -m "Message": Se hace commit y se pone el mensaje de lo que se hizo en esos cambios. 
 
 - git log: Muestra todos los commits hechos, especificando el nombre y email del usuario que los hizo.
+  - git log --graph: Para ver los commits como si fuera una rama.
+  - git log --graph --pretty=oneline: Para ver los commits como si fuera una rama, y todo en una linea.
 
-- git checkout: Para descartar todos los cambios hechos antes de hacer add o commit.
+- git checkout: Para descartar todos los cambios hechos antes de hacer add o commit. Tambien para moverse entre ramas. Solo puedo ver o restaurar archivos. No puedo eliminar commits.
+
+- git reset: Para descartar todos los cambios hechos.
+  - git reset --hard [nro commit]: Dependiendo el numero de commit se regresa a ese commit y elimina todos los anteriores del registro.
+  - git reset --soft [nro commit]: Vuelve al numero de commit especificado pero deja los cambios hechos para hacer commit de nuevo.

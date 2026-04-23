@@ -17,3 +17,5 @@
 - git rm --cached <file>: Para anular el git add y que vuelva al estado anterior.
 
 - git commit -m "Message": Se hace commit y se pone el mensaje de lo que se hizo en esos cambios. 
+
+- git log: Muestra todos los commits hechos, especificando el nombre y email del usuario que los hizo.

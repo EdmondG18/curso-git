@@ -7,3 +7,5 @@ git branch -M main: Para renombrar la rama principal poniendole el nombre de mai
 git pull: Comando necesario para actualizar todos los cambios que se hicieron en el repositorio en github traerlos al repositorio en local. No permite hacer "git push" si antes no se ha hecho "git pull" en caso de haber cambios en remoto.
 
 git clone "SSH": Comando para clonar un repositorio que esta en GitHub y tenerlo exactamente igual en local. El SSH es la URL que debo pegar en el Git junto con el Git Clone.
+
+Fork: Sirve para hacer una copia de un repositorio de otra persona. Esa copia si se le pueden hacer cambios en remoto, ya que pasa a ser una copia nuestra. Si no hace Fork y se clona un repositorio remoto de otra persona en local. No se podran subir cambios hechos en local a GitHub a menos que se cuente con los permisos.

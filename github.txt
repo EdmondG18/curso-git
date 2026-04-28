@@ -5,3 +5,5 @@ git push -u origin main: Este comando asi sera solo la primera vez que se suban 
 git branch -M main: Para renombrar la rama principal poniendole el nombre de main.
 
 git pull: Comando necesario para actualizar todos los cambios que se hicieron en el repositorio en github traerlos al repositorio en local. No permite hacer "git push" si antes no se ha hecho "git pull" en caso de haber cambios en remoto.
+
+git clone "SSH": Comando para clonar un repositorio que esta en GitHub y tenerlo exactamente igual en local. El SSH es la URL que debo pegar en el Git junto con el Git Clone.

@@ -3,3 +3,5 @@ git remote add origin "path": Es el comando utilizado en git bash para indicarle
 git push -u origin main: Este comando asi sera solo la primera vez que se suban los cambios de local al repositorio en GitHub, ya despues bastara solo con hacer 'git push'. NOTA: Asegurarse de que la rama principal se llame "main".
 
 git branch -M main: Para renombrar la rama principal poniendole el nombre de main.
+
+git pull: Comando necesario para actualizar todos los cambios que se hicieron en el repositorio en github traerlos al repositorio en local. No permite hacer "git push" si antes no se ha hecho "git pull" en caso de haber cambios en remoto.
